@@ -1,2 +1,2 @@
 print("Hello, World!")
-print("This is a test file for the main module.")
+print("This is a sample Python script.")
